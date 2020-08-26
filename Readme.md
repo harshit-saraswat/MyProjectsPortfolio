@@ -4,11 +4,11 @@ This repository serves as my personal projects portfolio. Here you'll find proje
 Also, some of the projects which I've worked upon won't have a repository or live link because my Non-Disclosure with the organizations/clients I worked with, binds me from sharing them publically.
 
 # Table of Contents
-[1. Ongoing Projects](#-Ongoing-Projects)<br>
-[2. AI-ML Projects](#-AI-ML-Projects)<br>
-[3. Web Development Projects](#-Web-Development-Projects)<br>
-[4. Android App Development Projects](#-Android-App-Development-Projects)<br>
-[5. Other Projects](#-Other-Projects)<br>
+[1. Ongoing Projects](#Ongoing-Projects)<br>
+[2. AI-ML Projects](#AI-ML-Projects)<br>
+[3. Web Development Projects](#Web-Development-Projects)<br>
+[4. Android App Development Projects](#Android-App-Development-Projects)<br>
+[5. Other Projects](#Other-Projects)<br>
 
 # Ongoing Projects
 
@@ -22,7 +22,7 @@ FaceRec is a web based analytics dashboard project which provides insights about
 
 **Project Link:**  *****NDA***
 
-<hr style="width:50%;">
+<hr style="width:30%;">
 
 ### ExamProctor:
 ***Role:*** AI Engineer (Computer Vision and Analytics Backend)
@@ -34,6 +34,8 @@ ExamProctor is an AI based examination proctoring tool which helps register stud
 At the end of examination, the admins/proctors can see  the entire candidate list with analytics of various flags raised and generates a Candidate Credibility Score which can be used by admins to cancel or accept the candidate's exam.
 
 **Project Link:**  *****NDA***
+
+<hr style="width:30%;">
 
 # AI-ML Projects
 # Web Development Projects
