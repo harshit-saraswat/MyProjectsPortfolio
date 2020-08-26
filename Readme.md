@@ -38,10 +38,10 @@ At the end of examination, the admins/proctors can see  the entire candidate lis
 <hr style="width:30%;">
 
 # AI-ML Projects
-[1. Computer Vision Projects](##Computer-Vision-Projects)<br>
-[2. NLP-Projects](##NLP-Projects)<br>
-[3. Machine Learning/Data Science Projects](##Machine-Learning/Data-Science-Projects)<br>
-[4. Forecasting/Analytics Projects](##Forecasting/Analytics-Projects)<br>
+[1. Computer Vision Projects](#computer-vision-projects)<br>
+[2. NLP-Projects](#nlp-projects)<br>
+[3. Machine Learning/Data Science Projects](#machine-learningdata-science-projects)<br>
+[4. Forecasting/Analytics Projects](#forecastinganalytics-projects)<br>
 
 ## Computer Vision Projects
 
