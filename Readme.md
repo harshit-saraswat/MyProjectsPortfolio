@@ -38,6 +38,41 @@ At the end of examination, the admins/proctors can see  the entire candidate lis
 <hr style="width:30%;">
 
 # AI-ML Projects
+[1. Computer Vision Projects](##Computer-Vision-Projects)<br>
+[2. NLP-Projects](##NLP-Projects)<br>
+[3. Machine Learning/Data Science Projects](##Machine-Learning/Data-Science-Projects)<br>
+[4. Forecasting/Analytics Projects](##Forecasting/Analytics-Projects)<br>
+
+## Computer Vision Projects
+
+### Face Mask Detection:
+***Role:*** AI Engineer (Computer Vision and Analytics Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV and Other Python Libraries.
+
+***Description:***
+This is a Computer Vision Project which served as one of the modules for my Final Year Project- *Implementation of Face Detection and Object Tracking Techniques to Develop Covid19 Utilities for Face Mask Detection and Social Distancing Violations Detection*. The project aims to detect if a person is wearing a mask or not in the camera feed. It is based on techniques such as:- Image Processing, Face Detection, Image Classification, Transfer Learning, etc.
+
+**Project Link:**  [Face-Mask-Detection](https://github.com/harshit-saraswat/Face-Mask-Detection)
+
+<hr style="width:30%;">
+
+### Social Distancing Violations Detection:
+***Role:*** AI Engineer (Computer Vision and Analytics Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV and Other Python Libraries.
+
+***Description:***
+This is a Computer Vision Project which served as one of the modules for my Final Year Project- *Implementation of Face Detection and Object Tracking Techniques to Develop Covid19 Utilities for Face Mask Detection and Social Distancing Violations Detection*. This repo contains code for a covid19 utility- social distancing detection using Tiny Yolo Model to be able to run on smaller GPU systems too. It is based on techniques such as:- Image Processing, Object Detection and Tracking, Transfer Learning, Euclidean Distances and Combinations, etc.
+
+**Project Link:**  [Social-Distancing-Detection](https://github.com/harshit-saraswat/Social-Distancing-Detection)
+
+<hr style="width:30%;">
+
+## NLP Projects
+## Machine Learning/Data Science Projects
+## Forecasting/Analytics Projects
+
 # Web Development Projects
 # Android App Development Projects
 # Other Projects
