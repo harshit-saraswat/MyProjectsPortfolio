@@ -18,7 +18,7 @@ Also, some of the projects which I've worked upon won't have a repository or liv
 ***Technology Stack:*** HTML5/CSS3/Bootstrap4,JavaScript-ES6, Python, Flask, MySQL, TensorFlow, OpenCV, Other Python Libraries
 
 ***Description:***
-FaceRec is a web based analytics dashboard project which provides insights about usage of our custom built Face AI Package and APIs. The project is built to easily manage and gain insights about our tool by understanding client usage behaviors and derived analytics. The insights drawn are on the basis of location, time, module of usage, etc.
+FaceRec is a web based analytics dashboard project which provides insights about usage of our custom built Face AI Package and APIs. The project is built to easily manage and gain insights about our tool by understanding client usage behaviors and derived analytics. The insights drawn are on the basis of location, time, module of usage, etc. The AI Module provides features for Face Detection, Recognition, Face Login, Face Verification, Human Face Checks for optimal images, Facial Landmarks detection, etc.
 
 **Project Link:**  *****NDA***
 
@@ -66,6 +66,84 @@ This is a Computer Vision Project which served as one of the modules for my Fina
 This is a Computer Vision Project which served as one of the modules for my Final Year Project- *Implementation of Face Detection and Object Tracking Techniques to Develop Covid19 Utilities for Face Mask Detection and Social Distancing Violations Detection*. This repo contains code for a covid19 utility- social distancing detection using Tiny Yolo Model to be able to run on smaller GPU systems too. It is based on techniques such as:- Image Processing, Object Detection and Tracking, Transfer Learning, Euclidean Distances and Combinations, etc.
 
 **Project Link:**  [Social-Distancing-Detection](https://github.com/harshit-saraswat/Social-Distancing-Detection)
+
+<hr style="width:30%;">
+
+### SnipNow:
+***Role:*** AI Engineer (Computer Vision and API Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV, TesseractOCR, C#, .NET, HTML5/CSS3/Bootstrap4, Javascript, Angular, etc.
+
+***Description:***
+A Computer Vision and OCR based Image Cutting/Cropping tool used to crop/snip out regions from word/pdf documents (Question Papers) and then use computer vision and ocr techniques to enhance the quality of snipped regions, save any excess white spaces by cropping the image to fit content, auto align text, split options for MCQs, remove labels for questions and options, etc.
+Helped in reducing the manual work of employees by streamlining the complete process and easy management provisions. Workload decreased by 15% which resulted in faster deliveries.
+
+**Project Link:**  *****NDA***
+
+<hr style="width:30%;">
+
+### Facify:
+***Role:*** AI Engineer (Computer Vision and API Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV, DLIB, Face_Recognition, Flask, MS SQL Server, C#, .NET, HTML/CSS/Bootstrap, JavaScript, VueJS, etc.
+
+***Description:***
+Highly Efficient and Strict Face Recognition System to find duplicate/unacceptable images in an image dataset of thousands of images to monitor exam registrations. The requirement was to recognize faces with only 1 image sample per user. Helped reduce the False/Unacceptable Registrations by 80%.
+Added to that, there were a series of checks each image had to pass through before being accepted inorder to confirm the candidate's validity.
+
+**Project Link:**  *****NDA***
+
+<hr style="width:30%;">
+
+### Office Bus:
+***Role:*** AI and Backend Engineer (Computer Vision, Analytics, Database and API Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV, DLIB, Face_Recognition, Flask, MySQL, Android Studio (XML+Java), etc.
+
+***Description:***
+This project has 2 separate modules:
+1. Admin Panel for accessing and managing employees and their attendances (Android App)
+2. Employee Attendance App for Tab/Mobile Devices to mark attendance using Face Recognition.
+
+The project helps in using contact-less and more secure and error free way of marking attendances/checking in the offices/schools based on face recognition techniques.
+
+**Project Link:**  *****NDA***
+
+<hr style="width:30%;">
+
+### Drive Awake:
+***Role:*** AI Engineer (Computer Vision Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV, DLIB and Other Python Libraries.
+
+***Description:***
+The project served as my 2nd year final project. It aims to detect a driver face and then detect the facial landmarks of that face. We then use that information to detect if a driver is drowsy/sleepy while driving or not. If the driver is found sleepy then an alert sound is raised inorder to wake him/her up.
+
+**Project Link:**  [Drive-Awake](https://github.com/harshit-saraswat/Drive-Awake)
+
+<hr style="width:30%;">
+
+### Come Talk:
+***Role:*** AI Engineer (Computer Vision Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras, OpenCV, DLIB and Other Python Libraries.
+
+***Description:***
+This project is an American Sign Language Recognizer which detects hand region using countour extraction and detects the hand signs made by passing those through a CNN Model to check what letter was produced and print on the screen. It intended to serve as an aid to deaf and dumb people to help them communicate with the people around them with ease.
+
+**Project Link:**  [Come-Talk](https://github.com/harshit-saraswat/Come-Talk)
+
+<hr style="width:30%;">
+
+### Implementation of Transfer Learning to detect Pneumonia in Chest X-rays:
+***Role:*** AI Engineer (Computer Vision Backend)
+
+***Technology Stack:*** Python, SKLearn, TensorFlow, Keras and Other Python Libraries.
+
+***Description:***
+The project aimed to use Transfer Learning Technique to detect pneumonia from chest X-ray Images. The model used was VGG19 for this problem statement. Achieved an accuracy of over 92% with an over all precision of 87%.
+
+**Project Link:**  [Pneumonia-Prediction](https://github.com/harshit-saraswat/Pneumonia-Prediction-using-Transfer-Learning-over-vgg19)
 
 <hr style="width:30%;">
 
