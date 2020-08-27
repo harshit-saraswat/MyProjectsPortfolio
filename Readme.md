@@ -8,7 +8,7 @@ Also, some of the projects which I've worked upon won't have a repository or liv
 [2. AI-ML Projects](#AI-ML-Projects)<br>
 [3. Web Development Projects](#Web-Development-Projects)<br>
 [4. Android App Development Projects](#Android-App-Development-Projects)<br>
-[5. Other Projects](#Other-Projects)<br>
+[5. Other](#Other)<br>
 
 # Ongoing Projects
 
@@ -148,10 +148,123 @@ The project aimed to use Transfer Learning Technique to detect pneumonia from ch
 <hr style="width:30%;">
 
 ## NLP Projects
+
+### Text Spam Classification:
+***Role:*** AI Engineer (NLP Backend)
+
+***Technology Stack:*** Python, SKLearn, NLTK and Other Python Libraries.
+
+***Description:***
+The project uses basic NLP Techniques such as Porter Stemming, WordNet Lemmatization, Tokenization, Stopwords Removal, Bag of Words Model and TF-IDF Model. The end output is the prediction of a message text as spam or not.
+The dataset is highly imbalanced so the precision is low but can be solved via upsampling/downsampling it.
+
+**Project Link:**  [Text-Spam-Classification](https://github.com/harshit-saraswat/NLP-Spam-Classification)
+
+<hr style="width:30%;">
+
+### Dr. Digi:
+***Role:*** AI Engineer (Chatbot Designer and Android App Developer)
+
+***Technology Stack:*** Python, SKLearn, DialogFlow, Flask, Android Studio(XML+Java), AR(Unity, C#), etc.
+
+***Description:***
+Dr. Digi serves as a personal medical assistant built using space age technologies of Chatbots, Android Apps, AR, etc. It's main purpose is to digitize healthcare as it helps patients find nearest hospitals, guide their ways in a hospital using AR based Indoor Maps, book appointments, manage patient history, etc. 
+
+**Project Link:**  *****NDA***
+
+<hr style="width:30%;">
+
 ## Machine Learning/Data Science Projects
+
+### Employee Attrition Rate Prediction:
+***Role:*** Participant (Complete ML Workflow)
+
+***Technology Stack:*** Python, SKLearn, Pandas, PyCaret, etc.
+
+***Description:***
+Employee Attrition Rate Prediction is a HackerEarth Machine Learning Challenge held in July, 2020. 
+The problem statement was to detect what probability is there that an employee will leave you. 
+I had to work on complete project starting from EDA Phase to Feature Engineering, Data Preparation, Model Building, Hyperparameter Tuning, etc.
+
+Secured a Top 3% rank in this competition.
+
+**Project Link:**  [Employee-Attrition-Rate-Prediction](https://github.com/harshit-saraswat/Employee-Attrition-Rate-Prediction)
+
+<hr style="width:30%;">
+
+### Machine Learning Bootcamp:
+***Role:*** Student and Developer (Complete ML Workflow)
+
+***Technology Stack:*** Python, SKLearn, Pandas, Matplotlib, Seaborn, NumPy, etc.
+
+***Description:***
+Worked on multiple small ML Projects in the following domains while studing ML and Data Science as an industrial intern:
+
+1. Regression
+    
+    a. Linear Regression<br>
+    b. Multiple Linear Regression<br>
+    c. Polynomial Regression<br>
+    d. XGBoost Regression<br>
+    e. RandomForest Regression<br>
+    f. Ridge Regression<br>
+    g. Bayesian Ridge Regression<br>
+    h. Lasso Regression<br>
+2. Classification
+
+    a. Logistic Regression<br>
+    b. Naive Bayes Classifier<br>
+    c. Support Vector Machine<br>
+    d. Decision Tree<br>
+    e. RandomForest<br>
+    f. XGBoost<br>
+    e. RandomForest<br>
+    f. K Nearest Neighbor<br>
+3. Clustering
+
+    a. K Means Clustering<br>
+    b. Hierarchical Clustering<br>
+
+4. Others
+
+    a. Apriori Algorithm<br>
+    b. PCA<br>
+    c. NLTK<br>
+
+<hr style="width:30%;">
+
 ## Forecasting/Analytics Projects
+
+### HealthCalc:
+***Role:*** AI Engineer (AI and Analytics Backend)
+
+***Technology Stack:*** Python, SKLearn, Pandas, NumPy, StatsModels, Keras, TensorFlow, C#, .NET, Angular, HTML, CSS, JavaScript, etc.
+
+***Description:***
+HealthCalc is a hospital analytics dashboard project which helped hospitals to forecast future patient flow for various departments such as Cardio, Physio, General, Emergency, etc. and based on that prepare and manage Doctors, Nurses, Sanitation Staff, Ambulances, etc.
+The analytics backend predicted all those things on a daily, weekly, fortnightly and monthly basis.
+Helped Reduce Hospital Resources Overutilisation by 13% and Underutilisation by 17%.
+Overall RMSE was 2.8 Patients With Mean of 130 patients on a daily basis. 
+
+**Project Link:**  *****NDA***
+
+<hr style="width:30%;">
 
 # Web Development Projects
 # Android App Development Projects
-# Other Projects
 
+# Other
+
+## Blogs:
+
+### Face-Recognition-based-Image-Separator:
+***Role:*** AI Engineer(Computer Vision and Analytics Backend) and Author
+
+***Technology Stack:*** Python, OpenCV, DLIB, Face_recognition and Other Python Libraries.
+
+***Description:***
+This is a small fun blog-project which uses face recognition techniques to separate images from a large dataset into images of different people according to faces.
+
+**Project Link:**  [Face-Recognition-based-Image-Separator](https://medium.com/analytics-vidhya/face-recognition-based-image-separator-408681f2360d)
+
+<hr style="width:30%;">
