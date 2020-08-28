@@ -251,7 +251,56 @@ Overall RMSE was 2.8 Patients With Mean of 130 patients on a daily basis.
 <hr style="width:30%;">
 
 # Web Development Projects
+
+### Simple Flask Blog App:
+***Role:*** Full Stack Developer
+
+***Technology Stack:*** HTML, CSS, Bootstrap, Flask, SQLAlchemy, Python, etc.
+
+***Description:***
+Simple Flask Blog app is a simple blogging app with user management, authentication module, posts management and other features for a simple blogging website using Flask and Jinja 2 Logic. It also has a Database Connectivity using SQLLite DB. The Project follows a MVC Architecture.
+
+**Project Link:**  [Simple-Blog-w-Flask](https://github.com/harshit-saraswat/Simple-Blog-w-Flask)
+
+<hr style="width:30%;">
+
+### CSS Personal CV:
+***Role:*** Web Developer
+
+***Technology Stack:*** HTML, CSS, Bootstrap.
+
+***Description:***
+Simple website which serves as my web CV hosted on GitHub Pages. It was one of my first Web Development Bootcamp Projects.
+
+**Project Link:**  [css-personal-cv](https://harshit-saraswat.github.io/css-personal-cv/)
+
+<hr style="width:30%;">
+
 # Android App Development Projects
+
+### eOPD:
+***Role:*** Android App Developer
+
+***Technology Stack:*** Android Studio (XML+Java), Xampp Server(MySQL DB+PHP Scripts), etc.
+
+***Description:***
+A simple android app to digitally preserve patient records in a secure manner and save them from the hassles of maintaining and handling large amount of medical documents by storing Patient History as a QR Code and sharing it via Image. Doctors registered with the app can have access to write or edit to that data only and no one else.
+
+**Project Link:**  [eOPD](https://github.com/harshit-saraswat/eOPD)
+
+<hr style="width:30%;">
+
+### Tribe-Mail:
+***Role:*** Android App Developer
+
+***Technology Stack:*** Android Studio (XML+Java), Xampp Server(MySQL DB+PHP Scripts), etc.
+
+***Description:***
+An android application made for SIH 2018 which serves as the one step solution for bringing the government closer to the STs and provide all government services on a single app. The project held an honorary position at SIH 2018. 
+
+**Project Link:**  [Tribe-Mail](https://github.com/harshit-saraswat/Tribe-Mail)
+
+<hr style="width:30%;">
 
 # Other
 
@@ -266,5 +315,41 @@ Overall RMSE was 2.8 Patients With Mean of 130 patients on a daily basis.
 This is a small fun blog-project which uses face recognition techniques to separate images from a large dataset into images of different people according to faces.
 
 **Project Link:**  [Face-Recognition-based-Image-Separator](https://medium.com/analytics-vidhya/face-recognition-based-image-separator-408681f2360d)
+
+<hr style="width:30%;">
+
+## Projects as a Mentor in Hackathons:
+
+### SaferWherever:
+***Role:*** Mentor
+
+***Technology Stack:*** Python, OpenCV, DLIB, Face_recognition, Streamlit, Flask, TensorFlow and Other Python Libraries.
+
+***Description:***
+The aim of this project is to develop a solution based on the use of AI for a post COVID-19 world as part of the #BuildwithAI : Emergence! Hackathon. The Project won **1st Runner Up Position at #BuildWithAI Global Hackathon** with over **5000 Participants globally**. The project processes camera feeds in malls to check for social distancing violations, face mask violations, density in areas and then visualize them on a Dashboard in the form of analytics and hotspot maps.
+
+**Project Link:**  [SaferWherever](https://github.com/tugrulguner/SaferWherever-BuildwithAI-Emergence) or [SaferWherever-Heroku](https://a-team-mall-monitor.herokuapp.com/) 
+
+<hr style="width:30%;">
+
+### CovidPredictor:
+***Role:*** Mentor
+
+***Technology Stack:*** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels.
+
+***Description:***
+The aim of this project was to use time series forecasting and statistical techniques to predict Covid19 Cases between July 25, 2020 to August 17, 2020.
+
+**Project Link:** [Covid19PredictiveModelling](https://github.com/lebro-23/CovidHackathonPredictiveModelling)
+
+<hr style="width:30%;">
+
+### CovidChatbot:
+***Role:*** Mentor
+
+***Technology Stack:*** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Flask, Rasa, NLTK, etc.
+
+***Description:***
+CovidChatbot is a simple chatbot app which analyses tweets from people with respect to Covid19 and produces users with insights on the abusive or false news in an area along with regular covid 19 question answers.
 
 <hr style="width:30%;">
