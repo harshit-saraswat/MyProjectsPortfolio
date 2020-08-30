@@ -6,9 +6,16 @@ Also, some of the projects which I've worked upon won't have a repository or liv
 # Table of Contents
 [1. Ongoing Projects](#Ongoing-Projects)<br>
 [2. AI-ML Projects](#AI-ML-Projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Computer Vision Projects](#computer-vision-projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2. NLP-Projects](#nlp-projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Machine Learning/Data Science Projects](#machine-learningdata-science-projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[2.4. Forecasting/Analytics Projects](#forecastinganalytics-projects)<br>
 [3. Web Development Projects](#Web-Development-Projects)<br>
 [4. Android App Development Projects](#Android-App-Development-Projects)<br>
 [5. Other](#Other)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1. Blogs](#blogs)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.2. Hackathon Mentor Projects](#projects-as-a-mentor-in-hackathons)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.3. Minor Utilities](#minor-utilities-)<br>
 
 # Ongoing Projects
 
@@ -303,6 +310,9 @@ An android application made for SIH 2018 which serves as the one step solution f
 <hr style="width:30%;">
 
 # Other
+[1. Blogs](#blogs)<br>
+[2. Hackathon Mentor Projects](#projects-as-a-mentor-in-hackathons)<br>
+[3. Minor Utilities](#minor-utilities-)<br>
 
 ## Blogs:
 
@@ -351,5 +361,17 @@ The aim of this project was to use time series forecasting and statistical techn
 
 ***Description:***
 CovidChatbot is a simple chatbot app which analyses tweets from people with respect to Covid19 and produces users with insights on the abusive or false news in an area along with regular covid 19 question answers.
+
+<hr style="width:30%;">
+
+## Minor Utilities:
+
+### Scraping Bots:
+***Role:*** Script Writer (Python Script)
+
+***Technology Stack:*** Python, Selenium, Beautiful Soup, Requests, Pandas.
+
+***Description:***
+Wrote a number of scripts to scrape data of internet for data collection or resource gathering from multiple websites using web automated crawlers and exported data in an excel/csv format.
 
 <hr style="width:30%;">
