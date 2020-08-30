@@ -15,7 +15,7 @@ Also, some of the projects which I've worked upon won't have a repository or liv
 [5. Other](#Other)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5.1. Blogs](#blogs)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[5.2. Hackathon Mentor Projects](#projects-as-a-mentor-in-hackathons)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[5.3. Minor Utilities](#minor-utilities-)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[5.3. Minor Utilities](#minor-utilities)<br>
 
 # Ongoing Projects
 
@@ -312,7 +312,7 @@ An android application made for SIH 2018 which serves as the one step solution f
 # Other
 [1. Blogs](#blogs)<br>
 [2. Hackathon Mentor Projects](#projects-as-a-mentor-in-hackathons)<br>
-[3. Minor Utilities](#minor-utilities-)<br>
+[3. Minor Utilities](#minor-utilities)<br>
 
 ## Blogs:
 
